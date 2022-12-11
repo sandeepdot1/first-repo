@@ -1,3 +1,2 @@
 # my-first-git-repo
-This branch is created locally first and I will try to make some changes in this branch and will merge this into main branch.
-Lets Goooo!!!!!!
+This is the my first git repo where I will be posting all the important git commands to start with
